@@ -134,7 +134,7 @@ Our work focuses on structured annotation, consistent labeling practices and qua
 
 **Need polygon annotation or dataset QA support?**
 
-Contact: `annomax.ai@yahoo.com`
+Contact: `sales@annomaxai.com`
 
 ---
 
